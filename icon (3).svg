@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#f5f5f0"/>
+  <rect x="80" y="60" width="352" height="120" rx="16" fill="#e8e8e3"/>
+  <text x="388" y="158" font-family="Courier New" font-size="100" fill="#1a1a1a" text-anchor="end">0</text>
+  <rect x="80" y="210" width="72" height="64" rx="12" fill="#e0e0db"/>
+  <rect x="168" y="210" width="72" height="64" rx="12" fill="#e0e0db"/>
+  <rect x="256" y="210" width="72" height="64" rx="12" fill="#e0e0db"/>
+  <rect x="344" y="210" width="72" height="64" rx="12" fill="#d4d4cf"/>
+  <rect x="80" y="290" width="72" height="64" rx="12" fill="#e8e8e3"/>
+  <rect x="168" y="290" width="72" height="64" rx="12" fill="#e8e8e3"/>
+  <rect x="256" y="290" width="72" height="64" rx="12" fill="#e8e8e3"/>
+  <rect x="344" y="290" width="72" height="64" rx="12" fill="#d4d4cf"/>
+  <rect x="80" y="370" width="72" height="64" rx="12" fill="#e8e8e3"/>
+  <rect x="168" y="370" width="72" height="64" rx="12" fill="#e8e8e3"/>
+  <rect x="256" y="370" width="72" height="64" rx="12" fill="#e8e8e3"/>
+  <rect x="344" y="370" width="72" height="64" rx="12" fill="#2d6be4"/>
+  <rect x="80" y="450" width="160" height="64" rx="12" fill="#e8e8e3"/>
+  <rect x="256" y="450" width="72" height="64" rx="12" fill="#e8e8e3"/>
+  <rect x="344" y="450" width="72" height="64" rx="12" fill="#2d6be4"/>
+</svg>
